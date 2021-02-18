@@ -1,0 +1,24 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Test bed to solve various algorithm questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiveneh/algorithms.git"
+  },
+  "keywords": [
+    "algorithms",
+    "data",
+    "structures"
+  ],
+  "author": "Victor Akerele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aiveneh/algorithms/issues"
+  },
+  "homepage": "https://github.com/aiveneh/algorithms#readme"
+}
